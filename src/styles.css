@@ -1,12 +1,12 @@
 body {
-  font-family: sans-serif;
-  background: mediumslateblue;
+    font-family: sans-serif;
+    background: #aa00aa;
 }
 
 h2 {
-  color: violet;
+    color: violet;
 }
 
 p {
-  color: lime;
+    color: lime;
 }
